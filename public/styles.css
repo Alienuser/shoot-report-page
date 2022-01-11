@@ -1,0 +1,61 @@
+::selection {
+    color: white;
+    background: #0AE20A;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #FAFAFA;
+}
+
+summary {
+    background-color: #0AE20A;
+    padding: 10px;
+}
+
+summary:focus {
+    outline: 0;
+}
+
+summary::marker, summary::-webkit-details-marker {
+    color: white;
+    font-size: 25px;
+}
+
+summary:nth-of-type(1) {
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: white;
+    display: inline;
+}
+
+details {
+    margin-top: 20px;
+}
+
+h3 {
+    color: #0AE20A;
+}
+
+hr {
+    border: 1px solid #0E2435;
+}
+
+button {
+    padding: 10px;
+    background-color: #0AE20A;
+    color: white;
+    border: none;
+    outline: 0;
+}
+
+.info {
+    background-color: #E0E0E0;
+    padding: 10px;
+}
+
+.tip {
+    padding: 12px;
+}
