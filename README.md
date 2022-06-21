@@ -4,8 +4,7 @@ competition recording and the integrated statistics function for training and co
 accompanies you throughout your entire process as a sports shooter. shoot report is geared to your
 needs and accompanies you on your individual path to performance improvement.
 
-This repo contains the trainer page. You can find the [Android](https://github.com/Alienuser/shoot-report-android) 
-and [iOS](https://github.com/Alienuser/shoot-report-ios) App in the corresponding repos.
+This repo contains the trainer page. You can find the [Android](https://github.com/Alienuser/shoot-report-android), [iOS](https://github.com/Alienuser/shoot-report-ios) and [Flutter](https://github.com/Alienuser/shoot-report-flutter) App in the corresponding repos.
 
 ## App Store
 [Here](https://trainer.burkhardt-sport.solutions) you can find the trainer page for the browser.
